@@ -6,7 +6,7 @@ A simple Python program that displays real-time weather information for any city
 
 ## 🚀 Features
 - Get **current temperature**, **weather description**, and **humidity** for any city.
-- Uses live data from OpenWeatherMap API.
+- Uses live data from Wttr.in
 - Clean and beginner-friendly Python code.
 - Includes basic **error handling** for invalid city names.
 
