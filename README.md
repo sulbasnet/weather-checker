@@ -1,6 +1,6 @@
 # 🌦 Weather Checker (Python)
 
-A simple Python program that displays real-time weather information for any city using the [OpenWeatherMap API](https://openweathermap.org/api).
+A simple Python program that displays real-time weather information for any city.
 
 ---
 
