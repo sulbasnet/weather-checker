@@ -14,7 +14,7 @@ A simple Python program that displays real-time weather information for any city
 
 ## 🧠 How It Works
 1. The user enters a **city name**.
-2. The program sends a request to the OpenWeatherMap API.
+2. The program sends a request to Wttr.
 3. It retrieves and displays:
    - 🌡 Temperature (°C)
    - 🌥 Weather condition
